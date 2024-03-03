@@ -8,7 +8,7 @@ class Grader{
         this.score = score;
     }
     String letterGrade(int score){
-        if(score >= 90){
+        if(score >= 100){
             return "A+";
         } else if (score >= 85) {
             return "A";
