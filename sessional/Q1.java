@@ -1,4 +1,4 @@
-package myPack1.sessional;
+// package myPack1.sessional;
 import java.util.Arrays;
 
 public class Q1 {
